@@ -11,6 +11,10 @@ In this repository we provide code of the paper:
   <img src="teaser.png" />
 </p>
 
+<p align="center">
+  <img src="kun.gif" />
+</p>
+
 ## Dataset
 The videos used in our experiments are available at [OneDrive](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/zhaoyp_connect_hku_hk/EUiZDLQQxCFEmPHHeGf-sFIBjMAIfffMQN4KA_fbcQjceg?e=CsQVL8).
 
